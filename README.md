@@ -1,6 +1,8 @@
 [Veiw Project White Paper PDF](https://github.com/deep-model/GPU_Utilization_of_Heterogenous_Clusters/blob/main/GPU%20Utilization_M.Harper.pdf)
 # Data Center Utilization & Resource Allocation of Heterogeneous GPU Clusters
 ##  Matthew Harper 
+
+ <img width="400" height="300" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Multi-tenant%20DC%20Availability.jpg" /> 
   <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Distributed%20GPU%20Cluster.jpg" /> 
   <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/NVLink%20Cluster.jpg" />
   
