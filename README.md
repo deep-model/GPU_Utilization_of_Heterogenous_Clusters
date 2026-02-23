@@ -3,8 +3,8 @@
 ##  Matthew Harper 
 
  <img width="400" height="300" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Multi-tenant%20DC%20Availability.jpg" /> 
-  <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Distributed%20GPU%20Cluster.jpg" /> 
-  <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/NVLink%20Cluster.jpg" />
+  
+ 
   
   
 # Abstract
@@ -25,6 +25,8 @@ of advanced distributed computing techniques such as distributed-parallel comput
 and high-performance computing integrated with heterogeneous computing infrastructures consisting of layered 
 virtualization over multiple variations of concurrent CPU and GPU environments [33]. 
 
+ <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/NVLink%20Cluster.jpg" />
+
 However, these resource allocation optimization approaches each present less than ideal optimized solutions for 
 generalized heterogenous GPU clusters [1, 12]. Moreover, for specific applications one or more of these pragmatic 
 approaches may work well for the intended application. However, in today’s modern generalized data centers and 
@@ -43,6 +45,8 @@ of advanced distributed computing techniques such as distributed-parallel comput
 clustering, and high-performance computing integrated with heterogeneous computing infrastructures consisting 
 of layered virtualization over multiple variations of concurrent CPU and GPU environments [33]. 
 
+<img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Distributed%20GPU%20Cluster.jpg" /> 
+
 In order to process big data at the rates and volumes mentioned, not only have new techniques been developed 
 such as Spark, Hadoop, and MapReduce, but advances in distributed cloud computing and clustering have led to a 
 hyperbolic expansion of data centers around the globe.  Combined with parallel computing architectures of 
@@ -50,7 +54,9 @@ GPUs, cloud computing infrastructures have contributed to accelerated training a
 deep model networks. This robust parallelization for tensor processing and neural networks presents GPU 
 clusters as a preferred processing solution for many supervised and unsupervised AI/ML tasks. A common 
 framework for distributed clusters consists of varying models of GPUs and CPUs to form heterogeneous GPU 
-clusters. This offers flexible allocation and utilization of a diverse range of tasks and offers flexible system 
+clusters. 
+
+This offers flexible allocation and utilization of a diverse range of tasks and offers flexible system 
 performance and scalability of existing systems and infrastructure. However, this new challenges are 
 presented in heterogeneous GPU clusters such as scheduling resources, workload balancing, and under
 utilization leading to decreased performance, suboptimal efficiency, and reduced realized availability with long 
