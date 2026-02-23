@@ -2,6 +2,7 @@
 # Data Center Utilization & Resource Allocation of Heterogeneous GPU Clusters
 ##  Matthew Harper 
   <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/NVLink%20Cluster.jpg" />
+   <img width="600" height="400" alt="image" src="https://github.com/deep-model/Data_Center_Utilization_of_Heterogenous_GPU_Clusters/blob/main/Distributed%20GPU%20Cluster.jpg" />
   
 # Abstract
 Data center and Big Data processing systems and deep learning models have become increasingly significant and applied to many 
