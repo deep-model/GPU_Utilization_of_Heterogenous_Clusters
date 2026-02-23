@@ -1,4 +1,4 @@
-# GPU Utilization & Resource Allocation in Heterogeneous Clusters
+# Data Center Utilization & Resource Allocation in Heterogeneous Clusters
 
 [Veiw Project White Paper PDF](https://github.com/deep-model/GPU_Utilization_of_Heterogenous_Clusters/blob/main/GPU%20Utilization_M.Harper.pdf)
 ##  Matthew Harper 
